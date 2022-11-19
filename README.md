@@ -10,4 +10,4 @@ The human brain interprets the visual world in a stream of hierarchy which invol
 **An example set of natural images used in the project**
 
 ### Code Organization
-The code for the fMRI and CORnet-Z model responses is stored in the same subdirectory called *Code*. The code was written in Python.
+The code for the fMRI and CORnet-Z model responses is stored in the same subdirectory (Code). The code was written in Python.

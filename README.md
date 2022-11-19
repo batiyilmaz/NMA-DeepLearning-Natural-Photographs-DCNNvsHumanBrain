@@ -8,4 +8,4 @@ The human brain interprets the visual world in a stream of hierarchy which invol
 ![This is an image](https://github.com/batiyilmaz/NMA-DeepLearning-Natural-Photographs-DCNNvsHumanBrain/blob/main/example_set_images.png)
 
 ### Code Organization
-The code for the fMRI resposne profiles and the DCNNN model, CORnet-Z, is stored in the same subdirectory (Code). The code was written in Python.
+The code for the fMRI and CORnet-Z model responses is stored in the same subdirectory called *Code*. The code was written in Python.
